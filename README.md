@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Himanshu-Kakkar
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning DSA using Cpp as well as WebDev
+- 📫 How to reach me ...ig:: https://www.instagram.com/@mr_kakkar_22
+- LinkedIn:: https://www.linkedin.com/in/himanshu-kakkar-8154981b4/
+- 😄 Pronouns: He/Him
+- ⚡ Hobbies reading Nobels and Gym Freak
